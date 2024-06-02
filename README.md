@@ -41,10 +41,12 @@ To run the analysis locally, follow these steps:
 **Clone the repository:** git clone https://github.com/Anniemarie001/DSC-PHASE1-PROJECT.git
 
 Download the IMDb dataset and place it in the appropriate directory.
+link to data source:https://www.imdb.com/interfaces/
 Run the Jupyter Notebook or Python script containing the analysis code.
 
 Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
+
 License
 This project is licensed under the MIT License.
 
